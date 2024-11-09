@@ -9,6 +9,8 @@ pbpaste
 # Ignore vascode and idea conf
 .idea/
 .vscode/
+# Ignore zip files (releases)
+*.zip
 
 # Binaries for programs and plugins
 *.exe

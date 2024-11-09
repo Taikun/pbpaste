@@ -2,6 +2,8 @@
 
 This Go program replicates the functionality of the `pbpaste` command found on macOS, allowing you to easily retrieve the contents of your clipboard and display it in the terminal.
 
+Since is done with Go you can compile for other platforms like x86 Windows 11 (included in the releases)
+
 ## Features
 
 - Simple and straightforward command-line interface.
